@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "product_name": "Joseph Wallet, Woodland",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51piUoLWNdL.jpg",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "Barbie",
+        "category": "Toys&KidsFashion",
+        "category_id": 5,
+        "Price": 800,
+        "Size": "Small",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41JAq9v0skL.jpg",
+        "Brand": "Doll"
+    },
+    {
+        "id": 3,
+        "product_name": "BatManSlipper",
+        "category": "Toys&KidsFashion",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "small",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51KnfQxpYXL.jpg",
+        "Brand": "BatGirl"
+    },
+    {
+        "id": 4,
+        "product_name": "MakeUpKit",
+        "category": "Toys&KidsFashion",
+        "category_id": 5,
+        "Price": 500,
+        "Size": "Medium",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41IPVRwGEbL.jpg",
+        "Brand": "Pitcher"
+    },
+    {
+        "id": 5,
+        "product_name": "Girls purse",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 300,
+        "Size": "Medium",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41ZdThWotuL.jpg",
+        "Brand": "Westside"
+    },
+    {
+        "id": 6,
+        "product_name": "Mobiles",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 30000,
+        "Image": "https://ibb.co/NWFtvWm", 
+        "Color": "Grey",
+        "company": "OnePlus"
+    },
+    {
+        "id": 7,
+        "product_name": "Mobiles",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 40000,
+        "Image":"https://ibb.co/L1P7TFP",
+        "Color": "Black",
+        "company": "Iphone"
+    },
+    {
+        "id": 8,
+        "product_name": "Wireless",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 12000,
+        "Image":"https://ibb.co/xYDVBbg",
+        "Color": "Black",
+        "company": "EarBuds"
+    },
+    {
+        "id": 9,
+        "product_name": "SmartWatch",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 35000,
+        "Image":"https://ibb.co/FVzxb0w",
+        "Color": "Black",
+        "company": "Iphone"
+    },
+    {
+        "id": 10,
+        "product_name": "Mobiles",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 48000,
+        "Image":"https://ibb.co/T05RmxB",
+        "Color": "Gold",
+        "company": "Samsung"
+    },
+    {
+        "id": 11,
+        "product_name": "Book&Magazines",
+        "category": "Books",
+        "category_id": 3,
+        "Price": 350,
+        "Image":"https://ibb.co/bJNb9Q8",
+        "company": "GoodWill's"
+    },
+    {
+        "id": 12,
+        "product_name": "Book&Magazines",
+        "category": "Books",
+        "category_id": 3,
+        "Price": 550,
+        "Image":"https://ibb.co/4Tdks6J",
+        "company": "GoodWill's"
+    },
+    {
+        "id": 13,
+        "product_name": "Book&Magazines",
+        "category": "Books",
+        "category_id": 3,
+        "Price": 450,
+        "Image":"https://ibb.co/3B1CWWR",
+        "company": "Arihant's"
+    },
+    {
+        "id": 14,
+        "product_name": "Book&Magazines",
+        "category": "Books",
+        "category_id": 3,
+        "Price": 350,
+        "Image":"https://ibb.co/dgKyBvB",
+        "company": "GoodWill's"
+    },
+    {
+        "id": 15,
+        "product_name": "Book&Magazines",
+        "category": "Books",
+        "category_id": 3,
+        "Price": 350,
+        "Image":"https://ibb.co/qdfxFBk",
+        "company": "Arihant's"
+    },
+    {
+        "id": 16,
+        "product_name": "Baby Toys",
+        "category": "Toys&KidsFashion",
+        "category_id": 5,
+        "Price": 800,
+        "Size": "Small",
+        "Image": "https://ibb.co/YfN9ZLd",
+        "Brand": "MacAthee"
+    },
+    {
+        "id": 17,
+        "product_name": "SpidyToy",
+        "category": "Toys&KidsFashion",
+        "category_id": 5,
+        "Price": 800,
+        "Size": "Medium",
+        "Image": "https://ibb.co/7WCnN7q",
+        "Brand": "Marvels"
+    },
+    {
+        "id": 18,
+        "product_name": "Tracks",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1200,
+        "Size": "Medium",
+        "Image": "https://ibb.co/xMV315P",
+        "Brand": "BOSS"
+    },
+    {
+        "id": 19,
+        "product_name": "T-Shirt",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 800,
+        "Size": "small",
+        "Image": "https://ibb.co/R7KkDGy",
+        "Brand": "J&J"
+    },
+    {
+        "id": 20,
+        "product_name": "Joggers",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1300,
+        "Size": "Medium",
+        "Image": "https://ibb.co/jVLKhyY",
+        "Brand": "PeterEngland"
+    },    
+    {
+        "id": 21,
+        "product_name": "SunScream",
+        "category": "Beauty&Health",
+        "category_id": 4,
+        "Price": 600,
+        "Image": "https://ibb.co/rmgXcVJ",
+        "Brand": "VeCare"
+    },
+    {
+        "id": 22,
+        "product_name": "HairCare",
+        "category": "Beauty&Health",
+        "category_id": 4,
+        "Price": 900,
+        "Image": "https://ibb.co/zfzCDH6",
+        "Brand": "Cera"
+    },
+    {
+        "id": 23,
+        "product_name": "LipBoom",
+        "category": "Beauty&Health",
+        "category_id": 4,
+        "Price": 550,
+        "Image": "https://ibb.co/x8m0nfg",
+        "Brand": "BurtBees"
+    },
+    {
+        "id": 24,
+        "product_name": "HandWash",
+        "category": "Beauty&Health",
+        "category_id": 4,
+        "Price": 400,
+        "Image": "https://ibb.co/h84xY5s",
+        "Brand": "Cetaphil"
+    },
+    {
+        "id": 25,
+        "product_name": "SkinLotion",
+        "category": "Beauty&Health",
+        "category_id": 4,
+        "Price": 750,
+        "Image": "https://ibb.co/yFq7WSQ",
+        "Brand": "Avena"  
+      }
+
+]
+
+
+
+
+
+
+

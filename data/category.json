@@ -1,0 +1,24 @@
+db.category.insert(
+[
+    {
+        "category_id":1,
+        "category": "Fashion"
+    },
+    {
+        "category_id":2,
+        "category":"Electronics"
+    },
+    {
+        "category_id":3,
+        "category":"Books"
+    },
+    {
+        "category_id":4,
+        "category":"Beauty&Health"
+    },
+    {
+        "category_id":5,
+        "category":"Toys&KidsFashion"
+    }
+]
+)
